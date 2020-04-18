@@ -1,0 +1,15 @@
+2
+Frustrated140(Coy)
+Frustrated140(Bill)
+11
+Coyote140(x) => Roadrunner140(y)
+Coyote140(x) => Chase140(x,y)
+Coyote140(x) & Roadrunner140(y) & Smart140(y) => ~Catch140(x,y)
+Coyote140(x) & Roadrunner140(y) & Chase140(x,y) & ~Catch140(x,y) => Frustrated140(x)
+Roadrunner140(x) & Beep140(x) => Smart140(x)
+Roadrunner140(x) => Beep140(x)
+Beep140(RR)
+Coyote140(Coy)
+~Coyote140(Bill)
+Roadrunner140(RR)
+Roadrunner140(RRtwo)

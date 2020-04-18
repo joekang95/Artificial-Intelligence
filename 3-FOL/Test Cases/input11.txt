@@ -1,0 +1,6 @@
+1
+Female190(Alice)
+3
+~Female190(x) => Human190(x)
+~Male190(y) => Human190(y)
+~Human190(z)

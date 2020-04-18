@@ -1,0 +1,11 @@
+1
+Criminal4(West)
+8
+American4(x) & Weapon4(y) & Sells4(x,y,z) & Hostile4(z) => Criminal4(x)
+Owns4(Nono,MONE)
+Missile4(MONE)
+~Missile4(x) & ~Owns4(Nono,x) => Sells4(West,x,Nono)
+Missile4(x) => Weapon4(x)
+Enemy4(x,America) => Hostile4(x)
+American4(West)
+Enemy4(Nono,America)

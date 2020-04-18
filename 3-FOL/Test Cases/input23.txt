@@ -1,0 +1,6 @@
+1
+SEE4(Bob)
+3
+SE4(x) => SEE4(x)
+SEEE4(x) => SE4(x) 
+SEEE4(Bob)

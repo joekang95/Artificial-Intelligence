@@ -1,0 +1,16 @@
+2
+Conservative120(Clem)
+~Conservative120(Stan)
+12
+Austinite120(x) & ~Conservative120(x) => Armadillo120(y)
+Austinite120(x) & ~Conservative120(x) => Loves120(x,y)
+Wears120(x) => Aggie120(x)
+Aggie120(x) & Dog120(y) => Loves120(x,y)
+Loves120(x,z)
+Armadillo120(z)
+~Loves120(x,y)
+Dog120(y)
+Austinite120(Clem)
+Wears120(Clem)
+~Wears120(Stan)
+Austinite120(Stan)

@@ -1,0 +1,7 @@
+2
+TS4(A)
+TS4(T)
+3
+Test4(x,x) => TS4(A)
+Test4(B,BB)
+Test4(x,y) => TS4(T)

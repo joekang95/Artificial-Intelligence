@@ -1,0 +1,6 @@
+1
+CC4(Tom)
+3
+AA4(x,John) & BB4(Bob) => CC4(Tom)
+BB4(Bob)
+AA4(Bob,John)

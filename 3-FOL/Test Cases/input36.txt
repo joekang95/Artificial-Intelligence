@@ -1,0 +1,8 @@
+2
+B170(Ada)
+D170(Chris)
+4
+A170(x) => B170(Ada)
+A170(Umbrella)
+~C170(x,Jill) => D170(x)
+~C170(x,Jill)

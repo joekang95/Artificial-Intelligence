@@ -1,0 +1,5 @@
+1
+A160(Lion)
+2
+~A160(x) => B160(Ada)
+~A160(Umbrella) => ~B160(Ada)

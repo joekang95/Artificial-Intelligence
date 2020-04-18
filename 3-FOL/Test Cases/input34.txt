@@ -1,0 +1,7 @@
+2
+Evil150(John)
+Happy150(John)
+3
+King150(x) & Greedy150(x) => Evil150(x)
+King150(John)
+Greedy150(x)

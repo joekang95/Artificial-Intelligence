@@ -1,0 +1,15 @@
+2
+~Date6(Mary,John)
+Date6(Mary,Bill)
+11
+Buy6(x) => Owns6(x,y)
+Buy6(x) & Rabbit6(y) => Grocery6(y)
+Dog6(x) => Rabbit6(y)
+Dog6(x) => Chase6(x,y)
+Buy6(Mary)
+Owns6(x,y) & Rabbit6(y) & Rabbit6(w) & Chase6(z,w) => Hates6(x,z)
+Dog6(x)
+Owns6(John,x)
+Owns6(y,z) & Hates6(x,z) => ~Date6(x,y)
+Grocery6(G)
+~Owns6(Mary,G)

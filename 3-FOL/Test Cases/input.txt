@@ -1,0 +1,13 @@
+1
+P(A)
+10
+A(A)&B(A)&C(A)=>P(A)
+D(A)&E(A)=>A(A)
+F(A)&G(A)=>B(A)
+H(A)&I(A)=>C(A)
+D(A)
+E(A)
+F(A)
+G(A)
+H(A)
+I(A)

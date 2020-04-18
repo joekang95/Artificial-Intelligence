@@ -1,0 +1,6 @@
+TRUE
+FALSE
+
+TRUE
+TRUE
+(KB has Contradiction)

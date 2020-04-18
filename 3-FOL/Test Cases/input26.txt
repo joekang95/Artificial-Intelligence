@@ -1,0 +1,7 @@
+1
+GA7(Add)
+4
+FA7(y,y,x) & RA7(z) => GA(z)
+AB7(x,y,z) => FA7(x,y,y)
+AB7(Random,Sub,Randomm)
+RA7(Add)
